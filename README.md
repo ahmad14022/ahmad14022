@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mushawwirahmad45@gmail.com**
 
-- ⚡ Fun fact **Another skills in code, i also have skills and experience in Graphic Design, UI/UX Design, Data Analyst, and Researcher**
+- ⚡ Fun fact **Another skills in code, i also have skills and experience in Graphic Design, UI/UX Design, Data Analyst, & Researcher**
 </br>
 <div align="left"> 
   <a href="mushawwirahmad45@gmail.com">
