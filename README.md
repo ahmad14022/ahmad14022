@@ -22,9 +22,9 @@
 | ------------------------------------------- | ------------ | ----------------------------------------------------- | ---------------------- |
 | Software Engineer                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Feb 2024 - Present     |
 | Frontend Developer                          | Part-time    | [Tim Akreditasi Prodi](https://www.unisayogya.ac.id/)| Aug 2023 & Present     |
-| Research Assistant (Computer Vision/AI)     | Part-time    | [UNISA Yogyakarta](https://www.unisayogya.ac.id/)    | Nov 2023 - Present     |
+| Research Assistant: Computer Vision & AI     | Part-time    | [UNISA Yogyakarta](https://www.unisayogya.ac.id/)    | Nov 2023 - Present     |
 | Software Engineer                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Aug - Dec 2023         |
-| Research Assistant (Data Mining)            | Part-time    | [UNISA Yogyakarta](https://www.unisayogya.ac.id/)    | Nov 2022 - Aug 2023    |
+| Research Assistant: Data Mining            | Part-time    | [UNISA Yogyakarta](https://www.unisayogya.ac.id/)    | Nov 2022 - Aug 2023    |
 
 <br>
 <div align="left"> 
