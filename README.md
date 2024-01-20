@@ -15,6 +15,18 @@
 
 - ⚡ Fun fact **Another skills in code, i also have skills and experience in Graphic Design, UI/UX Design, Data Analyst, & Researcher**
 </br>
+
+## Experience 🧑🏻‍💻
+
+| Roles                                      | Type         | Company/Institution                                  | Duration               |
+| ------------------------------------------- | ------------ | ----------------------------------------------------- | ---------------------- |
+| Software Engineer                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Feb 2024 - Present     |
+| Frontend Developer                          | Part-time    | [Tim Akreditasi Prodi](https://www.unisayogya.ac.id/)| Aug 2023 & Present     |
+| Research Assistant (Computer Vision/AI)     | Part-time    | [UNISA Yogyakarta](https://www.unisayogya.ac.id/)    | Nov 2023 - Present     |
+| Software Engineer                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Aug - Dec 2023         |
+| Research Assistant (Data Mining)            | Part-time    | [UNISA Yogyakarta](https://www.unisayogya.ac.id/)    | Nov 2022 - Aug 2023    |
+
+<br>
 <div align="left"> 
   <a href="mushawwirahmad45@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
