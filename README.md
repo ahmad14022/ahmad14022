@@ -41,7 +41,7 @@
 </br>
 <h2 align="left">Languages and Tools ⚒️</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,html,css,vscode,github,figma,sass,git,react,nodejs,python,javascript,express,mongodb,c,java,mysql,kotlin,docker,gitlab,postman" />
+    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,html,css,vscode,github,figma,sass,tailwind,git,react,nodejs,python,javascript,express,mongodb,c,java,mysql,kotlin,docker,gitlab,postman" />
     <br>
 </div>
 <br>
