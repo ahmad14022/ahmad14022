@@ -21,9 +21,9 @@
 | Roles                                      | Type         | Company/Institution                                  | Duration               |
 | ------------------------------------------- | ------------ | ----------------------------------------------------- | ---------------------- |
 | Research Assistant: Computer Vision & AI     | Part-time    | [UNISA Yogyakarta](https://www.unisayogya.ac.id/)    | Nov 2023 - Present     |
-| Software Engineer                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Feb - Jun 2024     |
+| Software Engineer (MSIB Batch 6)                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Feb - Jun 2024     |
 | Frontend Developer                          | Part-time    | [Tim Akreditasi Prodi](https://www.unisayogya.ac.id/)| Aug 2023 & May 2024     |
-| Software Engineer                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Aug - Dec 2023         |
+| Software Engineer (MSIB Batch 5)                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Aug - Dec 2023         |
 | Research Assistant: Data Mining            | Part-time    | [UNISA Yogyakarta](https://www.unisayogya.ac.id/)    | Nov 2022 - Aug 2023    |
 
 <br>
