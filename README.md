@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ahmad14022&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad14022" /> </p>
 
-- 🧑🏻‍💻 I’m currently intern @ [PT. Stechoq Robotika Indonesia](https://stechoq.com/)
+- 🧑🏻‍💻 I’m currently looking for an internship
 
 - 🌱 I’m currently learning **VueJS and ReactJS**
 
@@ -20,9 +20,9 @@
 
 | Roles                                      | Type         | Company/Institution                                  | Duration               |
 | ------------------------------------------- | ------------ | ----------------------------------------------------- | ---------------------- |
-| Software Engineer                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Feb 2024 - Present     |
-| Frontend Developer                          | Part-time    | [Tim Akreditasi Prodi](https://www.unisayogya.ac.id/)| Aug 2023 & Present     |
 | Research Assistant: Computer Vision & AI     | Part-time    | [UNISA Yogyakarta](https://www.unisayogya.ac.id/)    | Nov 2023 - Present     |
+| Software Engineer                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Feb - Jun 2024     |
+| Frontend Developer                          | Part-time    | [Tim Akreditasi Prodi](https://www.unisayogya.ac.id/)| Aug 2023 & May 2024     |
 | Software Engineer                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Aug - Dec 2023         |
 | Research Assistant: Data Mining            | Part-time    | [UNISA Yogyakarta](https://www.unisayogya.ac.id/)    | Nov 2022 - Aug 2023    |
 
