@@ -5,7 +5,7 @@
 
 - 🧑🏻‍💻 I’m currently looking for an internship
 
-- 🌱 I’m currently learning **VueJS and ReactJS**
+- 🌱 I’m currently learning **VueJS, ReactJS, NextJs, and TypeScript**
 
 - 🌐 All of my projects are available at [https://ahmad-porto.netlify.app/](https://ahmad-porto.netlify.app/)
 
@@ -20,6 +20,7 @@
 
 | Roles                                      | Type         | Company/Institution                                  | Duration               |
 | ------------------------------------------- | ------------ | ----------------------------------------------------- | ---------------------- |
+| FrontEnd Mentee     | Mentoring    | [Digistar Class Telkom Indonesia](https://class.digistartelkom.id/)    | Aug 2024 - Present     |
 | Research Assistant: Computer Vision & AI     | Part-time    | [UNISA Yogyakarta](https://www.unisayogya.ac.id/)    | Nov 2023 - Present     |
 | Software Engineer (MSIB Batch 6)                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Feb - Jun 2024     |
 | Frontend Developer                          | Part-time    | [Tim Akreditasi Prodi](https://www.unisayogya.ac.id/)| Aug 2023 & May 2024     |
