@@ -5,7 +5,7 @@
 
 - 🧑🏻‍💻 I’m currently looking for an internship
 
-- 🌱 I’m currently learning **VueJS, ReactJS, NextJs, and TypeScript**
+- 🌱 I’m currently learning **NextJs as a ReactJS Framework**
 
 - 🌐 All of my projects are available at [https://ahmad-porto.netlify.app/](https://ahmad-porto.netlify.app/)
 
