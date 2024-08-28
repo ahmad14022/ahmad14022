@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmad Mushawwir 👋🏻</h1>
-<h3 align="center">I'm student with passionate in Software Engineer, with road to 1 YoE as a Software Engineer Intern 🚀</h3>
+<h3 align="center">🚀 Passionate Software Engineer Intern with 1 Year of Hands-On Experience</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ahmad14022&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad14022" /> </p>
 
