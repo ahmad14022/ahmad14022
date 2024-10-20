@@ -3,9 +3,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ahmad14022&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad14022" /> </p>
 
-- 🧑🏻‍💻 I’m currently looking for an internship
+- 🧑🏻‍💻 I’m currently looking for an internship and part time
 
-- 🌱 I’m currently learning **NextJs as a ReactJS Framework**
+- 🌱 I’m currently learning **NextJs as a ReactJS Framework and TypeScript**
 
 - 🌐 All of my projects are available at [https://ahmad-porto.netlify.app/](https://ahmad-porto.netlify.app/)
 
@@ -20,8 +20,8 @@
 
 | Roles                                      | Type         | Company/Institution                                  | Duration               |
 | ------------------------------------------- | ------------ | ----------------------------------------------------- | ---------------------- |
-| FrontEnd Mentee     | Mentoring    | [Digistar Class Telkom Indonesia](https://class.digistartelkom.id/)    | Aug 2024 - Present     |
 | Research Assistant: Computer Vision & AI     | Part-time    | [UNISA Yogyakarta](https://www.unisayogya.ac.id/)    | Nov 2023 - Present     |
+| FrontEnd Mentee     | Mentoring    | [Digistar Class Telkom Indonesia](https://class.digistartelkom.id/)    | Aug - Oct 2024      |
 | Software Engineer (MSIB Batch 6)                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Feb - Jun 2024     |
 | Frontend Developer                          | Part-time    | [Tim Akreditasi Prodi](https://www.unisayogya.ac.id/)| Aug 2023 & May 2024     |
 | Software Engineer (MSIB Batch 5)                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Aug - Dec 2023         |
