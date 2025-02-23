@@ -3,9 +3,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ahmad14022&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad14022" /> </p>
 
-- 🧑🏻‍💻 I’m currently looking for an internship and part time
+- 🧑🏻‍💻 IT Data Center @ PT Bank Kalteng
 
-- 🌱 I’m currently learning **NextJs as a ReactJS Framework and TypeScript**
+- 🌱 I’m currently learning **System Administration**
 
 - 🌐 All of my projects are available at [https://ahmad-porto.netlify.app/](https://ahmad-porto.netlify.app/)
 
@@ -20,6 +20,8 @@
 
 | Roles                                      | Type         | Company/Institution                                  | Duration               |
 | ------------------------------------------- | ------------ | ----------------------------------------------------- | ---------------------- |
+| IT Data Center                          | Contract   | [Bank Kalteng](https://bankkalteng.co.id/)  | Feb - Now     |
+| Software Engineer (for Skripsi)                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Oct 2024 - Feb 2025     |
 | Research Assistant: Computer Vision & AI     | Part-time    | [UNISA Yogyakarta](https://www.unisayogya.ac.id/)    | Nov 2023 - Present     |
 | FrontEnd Mentee     | Mentoring    | [Digistar Class Telkom Indonesia](https://class.digistartelkom.id/)    | Aug - Oct 2024      |
 | Software Engineer (MSIB Batch 6)                           | Internship   | [Stechoq Robotika Indonesia](https://stechoq.com/)  | Feb - Jun 2024     |
