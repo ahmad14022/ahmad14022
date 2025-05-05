@@ -5,7 +5,7 @@
 
 - 🧑🏻‍💻 IT Data Center @ PT Bank Kalteng
 
-- 🌱 I’m currently learning **System Administration**
+- 🌱 I’m currently learning **Networking**
 
 - 🌐 All of my projects are available at [https://ahmad-porto.netlify.app/](https://ahmad-porto.netlify.app/)
 
